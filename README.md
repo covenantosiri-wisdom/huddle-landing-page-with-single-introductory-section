@@ -27,7 +27,7 @@ Users are able to:
 
 ### Screenshot
 
-Project Build Screenshot (./screenshot.png).
+![Project Build Screenshot](./screenshot.png)
 
 ### Links
 
