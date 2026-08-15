@@ -27,12 +27,12 @@ Users are able to:
 
 ### Screenshot
 
-_Add a screenshot of the final build here (e.g. `./screenshot.jpg`)._
+Project Build Screenshot (./screenshot.png).
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/covenantosiri-wisdom/huddle-landing-page-with-single-introductory-section)
+- Live Site URL: [Add live site URL here](https://huddle-landing-page-with-single-int-teal.vercel.app/)
 
 ## My process
 
@@ -111,5 +111,5 @@ The social links contain only inline SVGs, so each one gets an `aria-label` (e.g
 
 ## Author
 
-- Frontend Mentor - [Add your Frontend Mentor username here](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Add your Frontend Mentor username here](https://www.frontendmentor.io/profile/covenantosiri-wisdom)
 - Coded by Covenant Osiri-Wisdom
